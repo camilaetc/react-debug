@@ -23,10 +23,10 @@ const Main = () => {
         </video>
       </section>
       <section className="extern-links-section">
-        links a sitios externos
+        //links a sitios externos
       </section>
-    </main>
-  ;
-};
+    </main> )
+  
+}
 
 export default Main;
