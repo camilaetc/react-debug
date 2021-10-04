@@ -1,0 +1,9 @@
+.parrafoFooter{
+    color: white;
+}
+
+.pieDePagina{
+    display:flex;
+    justify-content: space-between;
+    align-items: center;
+}
